@@ -1,0 +1,55 @@
+/* COMPONENTE HEADER */
+
+@import './header.css';
+
+@import './logo.css';
+
+@import './menu/menu-list.css';
+@import './menu/menu-link.css';
+@import './menu/menu-item.css';
+/*============================================================================*/
+
+/* COMPONENTE BANNER */
+
+@import './banner/banner.css';
+@import './banner/banner-image.css';
+@import './banner/banner-title.css';
+/*============================================================================*/
+
+/* COMPONENTE ABOUT */
+
+@import './about/about.css';
+@import './about/about-title.css';
+@import './about/about-description.css';
+/*============================================================================*/
+
+/* COMPONENTE RECIPES */
+
+@import './recipes.css';
+
+@import './recipes/recipe.css';
+@import './recipes/recipe-content.css';
+@import './recipes/recipe-image.css';
+@import './recipes/recipe-title.css';
+@import './recipes/recipe-description.css';
+@import './recipes/recipe-button.css';
+/*============================================================================*/
+
+/* COMPONENTE ABOUT US */
+
+@import './aboutUs/aboutUs.css';
+@import './aboutUs/aboutUs-title.css';
+@import './aboutUs/aboutUs-description.css';
+
+@import './people.css';
+
+@import './person/person.css';
+@import './person/person-image.css';
+@import './person/person-name.css';
+@import './person/person-role.css';
+/*============================================================================*/
+
+/* COMPONENTE FOOTER */
+
+@import './footer.css';
+/*============================================================================*/

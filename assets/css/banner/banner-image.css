@@ -1,0 +1,19 @@
+.banner__image {
+  width: 100%;
+
+  background-image: url(../../img/banner.jpg);
+  background-size: cover;
+  background-position: center;
+}
+
+@media (min-width: 0) {
+  .banner__image {
+    height: calc(100vh - 51px);
+  }
+}
+
+@media (min-width: 768px) {
+  .banner__image {
+    height: calc(100vh - 72px);
+  }
+}
